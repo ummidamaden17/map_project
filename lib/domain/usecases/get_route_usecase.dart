@@ -1,0 +1,3 @@
+class GetRouteUseCase {
+  void execute() {}
+}
